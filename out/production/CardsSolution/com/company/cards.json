@@ -1,0 +1,72 @@
+{
+  "suits": {
+    "heart": {
+      "deck": [
+        {"card": "ace"},
+        {"card": "2"},
+        {"card": "4"},
+        {"card": "5"},
+        {"card": "6"},
+        {"card": "7"},
+        {"card": "8"},
+        {"card": "9"},
+        {"card": "10"},
+        {"card": "jack"},
+        {"card": "queen"},
+        {"card": "king"}
+      ]
+
+    },
+    "spade": {
+      "deck": [
+        {"card": "ace"},
+
+        {"card": "2"},
+        {"card": "4"},
+        {"card": "5"},
+        {"card": "6"},
+        {"card": "7"},
+        {"card": "8"},
+        {"card": "9"},
+        {"card": "10"},
+        {"card": "jack"},
+        {"card": "queen"},
+        {"card": "king"}
+      ]
+    },
+    "diamond": {
+      "deck": [
+        {"card": "ace"},
+
+        {"card": "2"},
+        {"card": "4"},
+        {"card": "5"},
+        {"card": "6"},
+        {"card": "7"},
+        {"card": "8"},
+        {"card": "9"},
+        {"card": "10"},
+        {"card": "jack"},
+        {"card": "queen"},
+        {"card": "king"}
+      ]
+    },
+    "club": {
+      "deck": [
+        {"card": "ace"},
+
+        {"card": "2"},
+        {"card": "4"},
+        {"card": "5"},
+        {"card": "6"},
+        {"card": "7"},
+        {"card": "8"},
+        {"card": "9"},
+        {"card": "10"},
+        {"card": "jack"},
+        {"card": "queen"},
+        {"card": "king"}
+      ]
+    }
+  }
+}
